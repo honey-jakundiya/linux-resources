@@ -21,7 +21,7 @@ Thank you for your interest in contributing to the Linux Learning Hub! This docu
 1. Fork the repository
 2. Clone your fork:
 ```bash
-git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
+git clone https://github.com/honey-jakundiya/linux-resources
 ```
 3. Add upstream remote:
 ```bash

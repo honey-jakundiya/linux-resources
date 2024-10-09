@@ -20,7 +20,7 @@ This repository serves as a comprehensive learning platform for Linux enthusiast
 ## 🚀 Getting Started
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
+git clone https://github.com/honey-jakundiya/linux-resources
 ```
 2. Browse through the directories based on your interests
 3. Follow the tutorials and examples
